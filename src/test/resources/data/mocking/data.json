@@ -1,0 +1,46 @@
+{
+  "newUserInformation": {
+    "USER-1": {
+      "name": "test",
+      "email": "xxx@yyyy.com",
+      "gender": "male",
+      "status": "active"
+    },
+    "USER-2": {
+      "name": "test",
+      "email": "xxx@yyyy.com",
+      "gender": "male",
+      "status": "active"
+    },
+    "USER-3": {
+      "name": "test",
+      "email": "xxx@yyyy.com",
+      "gender": "female",
+      "status": "active"
+    },
+    "USER-4": {
+      "name": "test",
+      "email": "xxx@yyyy.com",
+      "gender": "female",
+      "status": "active"
+    },
+    "USER-5": {
+      "name": "test",
+      "email": "xxx@yyyy.com",
+      "gender": "female",
+      "status": "active"
+    },
+    "USER-6": {
+      "name": "test",
+      "email": "xxx@yyyy.com",
+      "gender": "female",
+      "status": "active"
+    },
+    "USER-7": {
+      "name": "test",
+      "email": "xxx@yyyy.com",
+      "gender": "male",
+      "status": "active"
+    }
+  }
+}
